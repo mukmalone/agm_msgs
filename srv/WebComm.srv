@@ -1,6 +1,10 @@
 string function
 string key
+string owner
 string location
+string poNum
+string stationStatus
+string stepStatus
 ---
 uint32 status 
 string name
